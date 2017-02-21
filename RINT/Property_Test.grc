@@ -1,0 +1,55 @@
+﻿/****************************************************************************/
+/*																			*/
+/*				GRC resources for "Property_Test"			API tool		*/
+/*																			*/
+/****************************************************************************/
+
+'STR#' 32000 "Add-on Name and Description" {
+/* [  1] */		"Property Test"
+/* [  2] */		"API Test Add-on"
+}
+
+
+'STR#' 32500 "Menu" {
+/* [   ] */		"Test"
+/* [   ] */		"Properties"
+/* [  1] */			"Odwroc sciane...^EL"
+/* [  2] */			"Define a new string list property for the selected elem...^EL"
+/* [  3] */			"Define a new string multiple choice enumeration property for the selected elem...^EL"
+/* [  4] */			"-"
+/* [  5] */			"List all properties of the selected elem...^EL"
+/* [  6] */			"Set all properties to their default for the selected elem...^EL"
+/* [  7] */			"Make all properties unavailable for the selected elem...^EL"
+/* [  8] */			"-"
+/* [  9] */			"Define a new integer property for all of the selected elements...^EL"
+/* [ 10] */			"Set all integer properties to 42 for all of the selected elements...^EL"
+/* [ 11] */			"Make all integer properties unavailable for all of the selected elements...^EL"
+/* [ 12] */			"-"
+/* [ 13] */			"Run property tests on selected elem...^EL"
+}
+
+'STR#' 32501 "Menu" {
+/* [  1] */				"Lister..."
+}
+
+'STR#' 32600 "Menu Prompt string" {
+/* [   ] */		"Test"
+/* [   ] */		"Properties"
+/* [  1] */			"Odwróć ścianę..."
+/* [  2] */			"Define a new string list property for the selected elem..."
+/* [  3] */			"Define a new string multiple choice enumeration property for the selected elem..."
+/* [  4] */			"-"
+/* [  5] */			"List all properties of the selected elem..."
+/* [  6] */			"Set all properties to their default for the selected elem..."
+/* [  7] */			"Delete all properties on the selected elem..."
+/* [  8] */			"-"
+/* [  9] */			"Define a new integer property for all of the selected elements..."
+/* [ 10] */			"Set all integer properties to 42 for all of the selected elements..."
+/* [ 11] */			"Make all integer properties unavailable for all of the selected elements..."
+/* [ 12] */			"-"
+/* [ 13] */			"Run property tests on selected elem..."
+}
+
+'STR#' 32601 "Menu" {
+/* [  1] */				"Lister"
+}
